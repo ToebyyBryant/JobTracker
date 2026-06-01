@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api *)",
+      "WebFetch(domain:github.com)",
+      "Bash(dotnet --version)",
+      "WebFetch(domain:kiro.dev)"
+    ]
+  }
+}
