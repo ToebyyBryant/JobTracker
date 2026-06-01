@@ -12,6 +12,13 @@ obj/
 *.swp
 *~
 
+## AI
+.claude/
+.kiro/
+.cursor/
+.aider*
+.copilot/
+
 ## OS
 .DS_Store
 Thumbs.db
